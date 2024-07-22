@@ -91,7 +91,7 @@
                     <button id="accordion-button-1" aria-expanded="false">
                         <span class="accordion-title">
                             株式会社ブルームテクノロジー
-                            <img src="img/logo_bloomt.png" alt="株式会社ブルームテクノロジーのロゴ" width="100%">
+                            <img src="img/logo_bloomt.jpg" alt="株式会社ブルームテクノロジーのロゴ" width="100%">
                         </span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
