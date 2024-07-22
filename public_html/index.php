@@ -76,6 +76,23 @@
         </section>
         <section id="cv">
             <h2>職務経歴</h2>
+            <!-- 株式会社カオナビ（アコーディオン） -->
+            <div class="accordion">
+                <div class="accordion-item">
+                    <button id="accordion-button-1" aria-expanded="true">
+                        <span class="accordion-title">株式会社カオナビ</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>2018.05-2024.09</p>
+                        <p>ああああああああああああああああああああああああああ</p>
+                        <h3>【プロダクトデベロップメント本部 / ディレクター】2024.10</h3>
+                        <p><span class="bold-text03">あああああ | yyyy.mm-yyyy.mm</span></p>
+                        <p>あああああああああ</p>
+                    </div>
+                </div>
+                <br>
+            </div>
             <!-- 株式会社ブルームテクノロジー（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
