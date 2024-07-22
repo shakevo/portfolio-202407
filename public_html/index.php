@@ -90,7 +90,7 @@
                     </button>
                     <div class="accordion-content">
                         <p>2018.05-2024.09</p>
-                        <a href="https://bloom-t.co.jp" target="_blank"><img src="img/logo_bloomt.jpg" alt="株式会社ブルームテクノロジーのロゴ" width="100%"></a>
+                        <a href="https://bloom-t.co.jp" target="_blank"><img src="img/logo_bloomt.png" alt="株式会社ブルームテクノロジーのロゴ" width="100%"></a>
                         <p>東京都目黒区のAI・データ分析企業。2021年にゼロマーケティングから社名変更しWEBマーケティング事業から事業変更。</p>
                         <h3>テクニカルサポート課 / ソフトウェアエンジニア, インフラエンジニア 【2018.05】</h3>
                         <p><span class="bold-text03">アアアアアアア | yyyy.mm-yyyy.mm</span></p>
