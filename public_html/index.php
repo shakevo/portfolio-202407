@@ -79,12 +79,14 @@
             <div class="accordion">
                 <div class="accordion-item">
                     <button id="accordion-button-1" aria-expanded="false">
-                        <span class="accordion-title">株式会社エム・エス・アイ (2016.03-2018.04 | 2年1ヵ月)</span>
+                        <span class="accordion-title">株式会社エム・エス・アイ [2016.03-2018.04]</span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
                     <div class="accordion-content">
-                        <h3>製造ソリューション本部 / システムエンジニア (2016.03)</h3>
-                        <p>あああ<span class="bold-text03">あああ</span>あああ</p>
+                        <p>SIのソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
+                        <h3>製造ソリューション本部 / システムエンジニア [2016.03]</h3>
+                        <p><span class="bold-text02">製造業向けアプリケーション開発 / 2016.03-2018.04</span></p>
+                        <p>顧客折衝を伴う上流工程から下流工程まで一連のソフトウェア開発工程に携わり、1社の案件主担当・4社の案件PG(C#)としてシステムインテグレーションを経験。</p>
                     </div>
                 </div>
                 <br>
