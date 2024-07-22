@@ -76,7 +76,27 @@
         </section>
         <section id="cv">
             <h2>職務経歴</h2>
-            <!-- アコーディオン -->
+            <!-- 株式会社ブルームテクノロジー（アコーディオン） -->
+            <div class="accordion">
+                <div class="accordion-item">
+                    <button id="accordion-button-1" aria-expanded="false">
+                        <span class="accordion-title">株式会社ブルームテクノロジー</span>
+                        <span class="icon" aria-hidden="true"></span>
+                    </button>
+                    <div class="accordion-content">
+                        <p>2018.05-2024.09</p>
+                        <p>SIのソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
+                        <h3>【製造ソリューション本部 / システムエンジニア】2016.03</h3>
+                        <p><span class="bold-text03">コーディング自動化による工数削減 | 2017.08-2018.04</span></p>
+                        <p>複数のソフトウェア開発を重ねていく内にModelクラスにおけるコーディング工数の無駄を見つけた為、この工数削減のためDB設計情報をインポートしModelクラスを自動生成するシステムを開発し適用することで、1機能につき50%程度の工数削減を達成しました。</p>
+                        <p>またシステムは対応するフレームワークであれば複数案件で流用が可能なよう作成したため、他作業メンバーにも配布し工数削減に貢献いたしました。</p>
+                        <p><span class="bold-text03">製造業向けアプリケーション開発 | 2016.03-2018.04</span></p>
+                        <p>顧客折衝を伴う上流工程から下流工程まで一連のソフトウェア開発工程に携わり、1社の案件主担当・4社の案件PG(C#)としてシステムインテグレーションを経験。</p>
+                    </div>
+                </div>
+                <br>
+            </div>
+            <!-- 株式会社エム・エス・アイ（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
                     <button id="accordion-button-1" aria-expanded="false">
