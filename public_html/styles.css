@@ -156,6 +156,10 @@ footer {
     padding: 1rem 0;
 }
 
+footer a{
+    color: #25abb4;
+}
+
 /* モバイルビューのスタイル (スマホ表示でスタイルが変わることを明示的に防ぎたい) */
 @media (max-width: 768px) {
     .accordion-title {
