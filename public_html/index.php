@@ -195,6 +195,10 @@
     </main>
     <footer>
         <p>&copy; 2024 <a href="#top">shakevo</a></p>
+        <p><a href="https://x.com/shakevo_/">Twitter</a> / 
+           <a href="https://https://github.com/shakevo">GitHub</a> / 
+           <a href="https://zenn.dev/shakevo">Zenn</a> / 
+           <a href="https://note.com/shakevo">Note</a></p>
     </footer>
     <script src="scripts.js"></script>
 </body>
