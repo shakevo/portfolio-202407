@@ -24,18 +24,6 @@
             <img src="img/example.png" alt="ロゴ画像">
         </a>
         <span class="header-text">portfolio site.</span>
-        <!--
-        ナビゲーション付けたくなったらこれを使う(記述例)
-        <nav>
-            <ul>
-                <li><a href="#introduction">はじめに</a></li>
-                <li><a href="#environment">開発環境</a></li>
-                <li><a href="#values">バリュー</a></li>
-                <li><a href="#benefits">福利厚生</a></li>
-                <li><a href="#jobs">求人情報</a></li>
-            </ul>
-        </nav>
-        -->
     </header>
     <main>
         <section id="ccopy">
@@ -43,7 +31,7 @@
         </section>
         <section id="introduction">
             <p>shakevo(しゃけほっけ)のポートフォリオサイトです。職務経歴やスキルなどを簡潔にまとめています。</p>
-            <!-- アコーディオン -->
+            <!-- 経歴概略（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
                     <button id="accordion-button-1" aria-expanded="false">
@@ -122,13 +110,17 @@
                     </button>
                     <div class="accordion-content">
                         <p>2016.03-2018.04</p>
+                        <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
+                        <p>山形県のソフトウェア開発企業(独立系SIer)。</p>
                         <p>SIのソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
                         <h3>【製造ソリューション本部 / システムエンジニア】2016.03</h3>
                         <p><span class="bold-text03">コーディング自動化による工数削減 | 2017.08-2018.04</span></p>
                         <p>複数のソフトウェア開発を重ねていく内にModelクラスにおけるコーディング工数の無駄を見つけた為、この工数削減のためDB設計情報をインポートしModelクラスを自動生成するシステムを開発し適用することで、1機能につき50%程度の工数削減を達成しました。</p>
                         <p>またシステムは対応するフレームワークであれば複数案件で流用が可能なよう作成したため、他作業メンバーにも配布し工数削減に貢献いたしました。</p>
-                        <p><span class="bold-text03">製造業向けアプリケーション開発 | 2016.03-2018.04</span></p>
-                        <p>顧客折衝を伴う上流工程から下流工程まで一連のソフトウェア開発工程に携わり、1社の案件主担当・4社の案件PG(C#)としてシステムインテグレーションを経験。</p>
+                        <p><span class="bold-text03">製造業向けアプリケーション ERP機能開発 | 2017.04-2018.04</span></p>
+                        <p>顧客折衝を伴う上流工程から下流工程まで一連のソフトウェア開発工程を担当。スクラッチ開発案件での受発注管理/売上管理/顧客管理/各種財務会計文書発行といったERP機能開発プロジェクトで開発を担当。</p>
+                        <p><span class="bold-text03">製造業向け生産管理システム開発 | 2016.03-2018.04</span></p>
+                        <p>顧客折衝を伴う上流工程から下流工程まで一連のソフトウェア開発工程を担当。生産管理ソフトウェアにおける在庫管理/生産計画/予算管理/所要量管理/工程管理/品質管理といった工程の管理システムを開発。</p>
                     </div>
                 </div>
                 <br>
@@ -144,18 +136,18 @@
         </section>
         <section id="sns">
             <h2>SNS</h2>
-            <h3>Twitter(X)</h3>
-            <p><a href="https://x.com/shakevo_/" target="_blank">Twitter</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>Note</h3>
-            <p><a href="https://note.com/shakevo" target="_blank">Note</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>GitHub</h3>
-            <p><a href="https://github.com/shakevo" target="_blank">GitHub</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>Zenn</h3>
-            <p><a href="https://zenn.dev/shakevo" target="_blank">Zenn</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <p>
+                <ul>
+                    <li><a href="https://x.com/shakevo_/" target="_blank">Twitter@shakevo_</a></li>
+                    <li><a href="https://note.com/shakevo" target="_blank">Note(shakevo)</a></li>
+                    <li><a href="https://github.com/shakevo" target="_blank">GitHub(shakevo)</a></li>
+                    <li><a href="https://zenn.dev/shakevo" target="_blank">Zenn(shakevo)</a></li>
+                </ul>
+            </p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="aaaaaa">
-            <h2>SNS</h2>
+            <h2>あああああ</h2>
             <!-- bold-textクラスは01から順番に大きい太字の文字になるスタイル -->
             <h3>span class bol-textの利用例</h3>
             <p>本文本文本文本文本文<span class="bold-text01">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
