@@ -68,12 +68,15 @@
             <div class="accordion">
                 <div class="accordion-item">
                     <button id="accordion-button-1" aria-expanded="false">
-                        <span class="accordion-title">株式会社カオナビ (現職)</span>
+                        <span class="accordion-title">
+                            株式会社カオナビ (現職)
+                            <a href="https://corp.kaonavi.jp/" target="_blank"><img src="img/logo_kaonavi.png" alt="株式会社カオナビのロゴ" width="100%"></a>
+                        </span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
                     <div class="accordion-content">
                         <p>2018.05-2024.09</p>
-                        <a href="https://corp.kaonavi.jp/" target="_blank"><img src="img/logo_kaonavi.png" alt="株式会社カオナビのロゴ" width="100%"></a>
+                        
                         <p>ああああああああああああああああああああああああああ</p>
                         <h3>【プロダクトデベロップメント本部 / ディレクター】2024.10</h3>
                         <p><span class="bold-text03">あああああ | yyyy.mm-yyyy.mm</span></p>
