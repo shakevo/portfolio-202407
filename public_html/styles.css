@@ -118,6 +118,7 @@ section a:hover {
 .accordion-title {
     font-size: 1.2rem;
     font-weight: bold;
+    color: inherit; /* 親要素の色指定を引き継ぐ(スマホ表示のときデフォルトのリンク色になってしまう為 */
 }
 
 .icon {
