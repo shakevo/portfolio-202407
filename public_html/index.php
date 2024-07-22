@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="WEBサイトのディスクリプション"/>
     <!-- ページタイトル -->
-    <title>WEBサイトのタイトル</title>
+    <title>shakevo(しゃけほっけ) - portfolio site</title>
     <!-- WEBフォント -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,10 +19,10 @@
 <body id="top">
     <header>
         <!-- ヘッダーのロゴ画像リンク -->
-        <a href="https://bloom-t.co.jp/" target="_blank">
+        <a href="https://portfolio.comilky.com/" target="_blank">
             <img src="img/example.png" alt="ロゴ画像">
         </a>
-        <span class="header-text">エンジニア採用</span>
+        <span class="header-text">portfolio site.</span>
         <!--
         ナビゲーション付けたくなったらこれを使う(記述例)
         <nav>
@@ -38,11 +38,13 @@
     </header>
     <main>
         <section id="ccopy">
-            <h1>キャッチコピーH1</h1>
+            <h1>こ</h1>
         </section>
         <section id="introduction">
-            <p>「はじめに」的な文章を入力</p>
-            <p>「はじめに」的な文章を入力</p>
+            <p>1996年生まれ / 山形県出身</p>
+            <p>元々税理士を目指していたが、簿記よりもプログラミングの方が楽しいことに気が付きエンジニアを目指し始める。大学でコンピューターサイエンスを学んだことをキッカケにサーバー&ネットワーク分野の面白さにハマり、技能五輪全国大会に代表選手として出場。</p>
+            <p>新卒入社した地元のソフトウェア会社でソフトウェアエンジニアとなり、東北6県の製造業をターゲットとした生産管理システムやERP機能の開発に2年間従事するが、インフラエンジニアになる夢を諦められず2018年に上京。</p>
+            <p>WEBマーケティング会社のフルスタックエンジニア兼SREとして参画、開発と基盤構築に従事。その後リードエンジニアとエンジニアリングマネージャーを務めたのち、2023年より同社の事業責任者としてプロダクトの企画開発を推進する。</p>
             <!-- アコーディオン -->
             <div class="accordion">
                 <div class="accordion-item">
