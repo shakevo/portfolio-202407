@@ -100,6 +100,7 @@ section a:hover {
 /* アコーディオンアイテム */
 .accordion-item {
     background: #fff;
+    color: #333;
     border-bottom: 1px solid #ddd;
 }
 
