@@ -110,7 +110,7 @@
                     </button>
                     <div class="accordion-content">
                         <p>2016.03-2018.04</p>
-                        <a href="https://msi-net.co.jp" target="_blank"><img src="img/logo_img.png" alt="株式会社エム・エス・アイのロゴ" width="100%"></a>
+                        <a href="https://msi-net.co.jp" target="_blank"><img src="img/logo_msi.png" alt="株式会社エム・エス・アイのロゴ" width="100%"></a>
                         <p>山形県のソフトウェア開発企業(独立系SIer)。</p>
                         <p>SIのソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
                         <h3>【製造ソリューション本部 / システムエンジニア】2016.03</h3>
