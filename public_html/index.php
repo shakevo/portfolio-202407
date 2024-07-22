@@ -79,7 +79,7 @@
             <!-- 株式会社カオナビ（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
-                    <button id="accordion-button-1" aria-expanded="true">
+                    <button id="accordion-button-1" aria-expanded="false">
                         <span class="accordion-title">株式会社カオナビ</span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
@@ -133,35 +133,34 @@
                 </div>
                 <br>
             </div>
-
-
-            <!-- bold-textクラスは01から順番に大きい太字の文字になるスタイル -->
-            <h3>span class bol-textの利用例</h3>
-            <p>本文本文本文本文本文<span class="bold-text01">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
-            <p>本文本文本文本文本文<span class="bold-text02">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
-            <p>本文本文本文本文本文<span class="bold-text03">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="devel">
-            <h2>大きい見出しH2</h2>
+            <h2>アプリケーション</h2>
             <h3>小さい見出しH3</h3>
             <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
             <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
             <a href="#top">ページトップに戻る</a>
         </section>
-        <section id="model">
-            <h2>大きい見出しH2</h2>
+        <section id="sns">
+            <h2>SNS</h2>
+            <h3>Twitter(X)</h3>
+            <p><a href="https://x.com/shakevo_/" target="_blank">Twitter</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <h3>Note</h3>
+            <p><a href="https://note.com/shakevo" target="_blank">Note</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <h3>GitHub</h3>
+            <p><a href="https://github.com/shakevo" target="_blank">GitHub</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <h3>Zenn</h3>
+            <p><a href="https://zenn.dev/shakevo" target="_blank">Zenn</a>：本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <a href="#top">ページトップに戻る</a>
+        </section>
+        <section id="aaaaaa">
+            <h2>SNS</h2>
             <!-- bold-textクラスは01から順番に大きい太字の文字になるスタイル -->
             <h3>span class bol-textの利用例</h3>
             <p>本文本文本文本文本文<span class="bold-text01">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <p>本文本文本文本文本文<span class="bold-text02">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <p>本文本文本文本文本文<span class="bold-text03">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
-            <a href="#top">ページトップに戻る</a>
-        </section>
-        <section id="values">
-            <h2>大きい見出しH2</h2>
-            <h3>小さい見出しH3</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="evaluation">
@@ -195,12 +194,7 @@
     </main>
     <footer>
         <p>
-            &copy; 2024 <a href="#top">shakevo</a> | 
-            <a href="https://x.com/shakevo_/" target="_blank">Twitter</a> / 
-            <a href="https://https://github.com/shakevo" target="_blank">GitHub</a> / 
-            <a href="https://zenn.dev/shakevo" target="_blank">Zenn</a> / 
-            <a href="https://note.com/shakevo" target="_blank">Note</a>
-        </p>
+            &copy; 2024 <a href="#top">shakevo</a></p>
     </footer>
     <script src="scripts.js"></script>
 </body>
