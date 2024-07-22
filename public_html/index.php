@@ -194,11 +194,13 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 <a href="#top">shakevo</a></p>
-        <p><a href="https://x.com/shakevo_/">Twitter</a> / 
-           <a href="https://https://github.com/shakevo">GitHub</a> / 
-           <a href="https://zenn.dev/shakevo">Zenn</a> / 
-           <a href="https://note.com/shakevo">Note</a></p>
+        <p>
+            &copy; 2024 <a href="#top">shakevo</a> | 
+            <a href="https://x.com/shakevo_/" target="_blank">Twitter</a> / 
+            <a href="https://https://github.com/shakevo" target="_blank">GitHub</a> / 
+            <a href="https://zenn.dev/shakevo" target="_blank">Zenn</a> / 
+            <a href="https://note.com/shakevo" target="_blank">Note</a>
+        </p>
     </footer>
     <script src="scripts.js"></script>
 </body>
