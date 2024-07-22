@@ -118,12 +118,6 @@ section a:hover {
 .accordion-title {
     font-size: 1.2rem;
     font-weight: bold;
-    color: inherit; /* 親要素の色指定を引き継ぐ(スマホ表示のときデフォルトのリンク色になってしまう為 */
-}
-
-.accordion-title a {
-    color: inherit; /* 親要素の色指定を引き継ぐ(スマホ表示のときデフォルトのリンク色になってしまう為 */
-    text-decoration: none; /* 下線を消す */
 }
 
 .icon {
@@ -160,4 +154,11 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1rem 0;
+}
+
+/* モバイルビューのスタイル (スマホ表示でスタイルが変わることを明示的に防ぎたい) */
+@media (max-width: 768px) {
+    .accordion-title {
+        color: #333 !important;
+    }
 }
