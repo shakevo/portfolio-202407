@@ -76,10 +76,8 @@
                     </button>
                     <div class="accordion-content">
                         <p>2018.05-2024.09</p>
-                        <p>
-                            あああああ<br>
-                            <a href="https://corp.kaonavi.jp/" target="_blank">株式会社カオナビ</a>
-                        </p>
+                        <p>あああああ</p>
+                        <p><a href="https://corp.kaonavi.jp/" target="_blank">株式会社カオナビ</a></p>
                         <p>ああああああああああああああああああああああああああ</p>
 
                         <h3>プロダクトデベロップメント本部 / プロダクトマネージャー, ディレクター 【2024.10-】</h3>
@@ -101,10 +99,8 @@
                     </button>
                     <div class="accordion-content">
                         <p>2018.05-2024.09</p>
-                        <p>
-                            東京都目黒区のAI・データ分析企業。2021年にゼロマーケティングから社名変更しWEBマーケティング事業から事業変更。<br>
-                            <a href="https://bloom-t.co.jp/" target="_blank">株式会社ブルームテクノロジー</a>
-                        </p>
+                        <p>東京都目黒区のAI・データ分析企業。2021年にゼロマーケティングから社名変更しWEBマーケティング事業から事業変更。</p>
+                        <p><a href="https://bloom-t.co.jp/" target="_blank">https://bloom-t.co.jp/</a></p>
                         <p>リードエンジニア、アーキテクト、エンジニアリングマネージャー、プロダクトマネージャーを担当。プロダクト企画・立上げやエンジニア組織の構築など0→1フェーズでのマネジメントを担当。その他 情シス部門の責任者としてセキュリティやファシリティ統括なども兼任。</p>
 
                         <!-- section -->
@@ -139,10 +135,8 @@
                     </button>
                     <div class="accordion-content">
                         <p>2016.03-2018.04</p>
-                        <p>
-                            山形県のソフトウェア開発企業(独立系SIer)。<br>
-                            <a href="https://mst-net.co.jp/" target="_blank">株式会社エム・エス・アイ</a>
-                        </p>
+                        <p>山形県のソフトウェア開発企業(独立系SIer)。</p>
+                        <p><a href="https://msi-net.co.jp/" target="_blank">https://msi-net.co.jp/</a></p>
                         <p>SIのソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
                         <h3>製造ソリューション本部 / システムエンジニア 【2016.03】</h3>
                         <p><span class="bold-text03">コーディング自動化による工数削減 | 2017.08-2018.04</span></p>
