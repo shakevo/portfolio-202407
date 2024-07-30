@@ -81,6 +81,14 @@ section h3 {
     margin-top: 3.5rem; /* 読みやすくするために少し大きめのマージンを取る */
 }
 
+section tbody{
+    border: none; /* 背景色付けるのに邪魔だからボーダー無し */
+}
+section tbody tr:nth-child(odd) th,
+section tbody tr:nth-child(odd) td {
+	background: #f4f4f4; /* 奇数行に着色 */
+}
+
 section a {
     display: block;
     margin-top: 1rem;
@@ -91,14 +99,6 @@ section a {
 
 section a:hover {
     text-decoration: underline;
-}
-
-section tbody{
-    border: none; /* 背景色付けるのに邪魔だからボーダー無し */
-}
-section tbody tr:nth-child(odd) th,
-section tbody tr:nth-child(odd) td {
-	background: #f4f4f4; /* 奇数行に着色 */
 }
 
 /* アコーディオン共通 */
