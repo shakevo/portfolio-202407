@@ -136,7 +136,8 @@ section a:hover {
 tbody{
     border: none; /* 背景色付けるのに邪魔だからボーダー無し */
 }
-tbody tr:nth-child(even) th td {
+tbody tr:nth-child(even) th,
+tbody tr:nth-child(even) td {
 	background: #f4f4f4; /* 偶数行に着色 */
 }
 
