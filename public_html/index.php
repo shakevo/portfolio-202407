@@ -63,22 +63,22 @@
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="cv">
-            <h2>職務経歴</h2>
-            <h3>公開職務経歴書</h3>
-            <p><a href="https://drive.google.com/drive/folders/1tfEOdNoKdHUaJl-afpFI9j8oKA4C_yum" target="_blank">Google Drive</a></p>
+            <h2>経歴</h2>
+            <h3>職務経歴書・レジュメ</h3>
+            <p><a href="https://drive.google.com/drive/folders/1tfEOdNoKdHUaJl-afpFI9j8oKA4C_yum" target="_blank">リンク(Google Driveを開きます)</a></p>
             <h3>所属概要</h3>
-            <p>所属の概要です。</p>
+            <p>所属企業の概要です。</p>
             <!-- 株式会社カオナビ（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
                     <button id="accordion-button-1" aria-expanded="false">
                         <span class="accordion-title">
                             株式会社カオナビ (現職)
-                            <img src="img/logo_kaonavi.png" alt="株式会社カオナビのロゴ" width="100%">
                         </span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
                     <div class="accordion-content">
+                        <img src="img/logo_kaonavi.png" alt="株式会社カオナビのロゴ" width="100%">
                         <p>2024.10-</p>
                         <p>クラウド人材管理システム「カオナビ」を提供するSaaS企業。</p>
                         <p><a href="https://corp.kaonavi.jp/" target="_blank">https://corp.kaonavi.jp/</a></p>
@@ -110,11 +110,11 @@
                     <button id="accordion-button-1" aria-expanded="false">
                         <span class="accordion-title">
                             株式会社ブルームテクノロジー
-                            <img src="img/logo_bloomt.jpg" alt="株式会社ブルームテクノロジーのロゴ" width="100%">
                         </span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
                     <div class="accordion-content">
+                        <img src="img/logo_bloomt.jpg" alt="株式会社ブルームテクノロジーのロゴ" width="100%">
                         <p>2018.05-2024.09</p>
                         <p>東京都目黒区のAI・データ分析企業。2021年にゼロマーケティングから社名変更しWEBマーケティング事業から事業変更。</p>
                         <p><a href="https://bloom-t.co.jp/" target="_blank">https://bloom-t.co.jp/</a></p>
@@ -172,11 +172,11 @@
                     <button id="accordion-button-1" aria-expanded="false">
                         <span class="accordion-title">
                             株式会社エム・エス・アイ
-                            <img src="img/logo_msi.jpg" alt="株式会社エム・エス・アイのロゴ" width="100%">
                         </span>
                         <span class="icon" aria-hidden="true"></span>
                     </button>
                     <div class="accordion-content">
+                        <img src="img/logo_msi.jpg" alt="株式会社エム・エス・アイのロゴ" width="100%">
                         <p>2016.03-2018.04</p>
                         <p>山形県のソフトウェア開発企業(独立系SIer)。</p>
                         <p><a href="https://msi-net.co.jp/" target="_blank">https://msi-net.co.jp/</a></p>
