@@ -138,7 +138,7 @@ tbody{
 }
 tbody tr:nth-child(odd) th,
 tbody tr:nth-child(odd) td {
-	background: #f4f4f4; /* 偶数行に着色 */
+	background: #f4f4f4; /* 奇数行に着色 */
 }
 
 /* 太字設定 spanで使う */
