@@ -134,13 +134,10 @@ section a:hover {
 }
 
 tbody{
-    border-spacing:0;
+    border: none; /* 背景色付けるのに邪魔だからボーダー無し */
 }
-tbody tr:nth-child(even) th {
-	background: #f4f4f4;
-}
-tbody tr:nth-child(even) td {
-	background: #f4f4f4;
+tbody tr:nth-child(even) th td {
+	background: #f4f4f4; /* 偶数行に着色 */
 }
 
 /* 太字設定 spanで使う */
