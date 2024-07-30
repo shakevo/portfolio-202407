@@ -93,6 +93,14 @@ section a:hover {
     text-decoration: underline;
 }
 
+section tbody{
+    border: none; /* 背景色付けるのに邪魔だからボーダー無し */
+}
+section tbody tr:nth-child(odd) th,
+section tbody tr:nth-child(odd) td {
+	background: #f4f4f4; /* 奇数行に着色 */
+}
+
 /* アコーディオン共通 */
 .accordion {
     margin-top: 1rem;
@@ -131,14 +139,6 @@ section a:hover {
 
 .accordion-item[aria-expanded="true"] .accordion-content {
     display: block;
-}
-
-tbody{
-    border: none; /* 背景色付けるのに邪魔だからボーダー無し */
-}
-tbody tr:nth-child(odd) th,
-tbody tr:nth-child(odd) td {
-	background: #f4f4f4; /* 奇数行に着色 */
 }
 
 /* 太字設定 spanで使う */
