@@ -213,8 +213,8 @@
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="devel">
-            <h2>アプリケーション</h2>
-            <h3>小さい見出しH3</h3>
+            <h2>個人開発など</h2>
+            <h3>アプリケーションAAA</h3>
             <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
             <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
             <a href="#top">ページトップに戻る</a>
@@ -231,27 +231,18 @@
             </p>
             <a href="#top">ページトップに戻る</a>
         </section>
+
+        <!-- サンプル -->
+        <!--
         <section id="aaaaaa">
             <h2>あああああ</h2>
-            <!-- bold-textクラスは01から順番に大きい太字の文字になるスタイル -->
             <h3>span class bol-textの利用例</h3>
             <p>本文本文本文本文本文<span class="bold-text01">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <p>本文本文本文本文本文<span class="bold-text02">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <p>本文本文本文本文本文<span class="bold-text03">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
-            <a href="#top">ページトップに戻る</a>
-        </section>
-        <section id="evaluation">
-            <h2>大きい見出しH2</h2>
-            <h3>小さい見出しH3</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <a href="#top">ページトップに戻る</a>
-        </section>
-        <section id="benefits">
-            <h2>大きい見出しH2</h2>
-            <p>リストも使える、リストの利用例</p>
-            <h3>小さい見出しH3</h3>
+
+            <h3>リストの利用例</h3>
             <p>
-                <h3>休暇・働き方</h3>
                 <ul>
                     <li>リスト</li>
                     <li>リスト</li>
@@ -262,12 +253,7 @@
             </p>
             <a href="#top">ページトップに戻る</a>
         </section>
-        <section id="jobs">
-            <h2>大きい見出しH2</h2>
-            <h3>小さい見出しH3</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <a href="#top">ページトップに戻る</a>
-        </section>
+        -->
     </main>
     <footer>
         <p>
