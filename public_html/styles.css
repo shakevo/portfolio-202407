@@ -133,6 +133,10 @@ section a:hover {
     display: block;
 }
 
+table tr:nth-child(odd) td {
+	background: #f4f4f4;
+}
+
 /* 太字設定 spanで使う */
 .bold-text01 {
     font-size: 1.8rem;
