@@ -133,7 +133,10 @@ section a:hover {
     display: block;
 }
 
-tbody tr:nth-child(even) td {
+tbody{
+    border-spacing:0;
+}
+tbody tr:nth-child(even) th td {
 	background: #f4f4f4;
 }
 
