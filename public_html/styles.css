@@ -58,14 +58,13 @@ main {
     line-height: 1.1; /* 行間の調整 */
 }
 
-/* キャッチコピー内 H2のスタイル */
+/* キャッチコピー内 H1のスタイル */
 #ccopy h1 {
     font-size: 5rem;
     font-weight: 700;
     margin: 0;
     line-height: 1.1;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 1.3); /* 影の設定 */
-    text-align: center;
 }
 
 /* 各セクション共通 */
