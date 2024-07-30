@@ -64,6 +64,10 @@
         </section>
         <section id="cv">
             <h2>職務経歴</h2>
+            <h3>公開職務経歴書</h3>
+            <p><a href="https://drive.google.com/drive/folders/1tfEOdNoKdHUaJl-afpFI9j8oKA4C_yum" target="_blank">Google Drive</a></p>
+            <h3>所属概要</h3>
+            <p>所属の概要です。</p>
             <!-- 株式会社カオナビ（アコーディオン） -->
             <div class="accordion">
                 <div class="accordion-item">
@@ -143,7 +147,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2020.04-2021.04</th>
-                                    <td>アーキテクト, リードエンジニア, クラウドエンジニア</td>
+                                    <td>アーキテクト, リードエンジニア, クラウドエンジニア, SRE</td>
                                     <td>インテグレーション事業部 開発課 主任</td>
                                 </tr>
                                 <tr>
