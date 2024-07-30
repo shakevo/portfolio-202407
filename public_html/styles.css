@@ -135,6 +135,7 @@ section a:hover {
 
 tbody{
     border: none; /* 背景色付けるのに邪魔だからボーダー無し */
+    border-spacing:0;
 }
 tbody tr:nth-child(odd) th,
 tbody tr:nth-child(odd) td {
