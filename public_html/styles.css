@@ -133,11 +133,7 @@ section a:hover {
     display: block;
 }
 
-table td {
-	background: #999;
-}
-
-table tr:nth-child(odd) td {
+tbody tr:nth-child(even) td {
 	background: #f4f4f4;
 }
 
