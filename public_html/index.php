@@ -78,8 +78,24 @@
                         <p>2024.10-</p>
                         <p>クラウド人材管理システム「カオナビ」を提供するSaaS企業。</p>
                         <p><a href="https://corp.kaonavi.jp/" target="_blank">https://corp.kaonavi.jp/</a></p>
-                        <p> - </p>
-                        <p>プロダクトマネージャー, ディレクター / プロダクトデベロップメント本部 【2024.10-】</p>
+                        <p>「カオナビ」の機能開発ディレクション、プロダクトマネジメントを担当。</p>
+
+                        <!-- 所属中の配属期間内訳 -->
+                        <table>
+                            <thead>
+                                <tr>
+                                <th scope="col">期間</th>
+                                <th scope="col">ロール</th>
+                                <th scope="col">所属</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">2024.10-</th>
+                                    <td>プロダクトマネージャー, 開発ディレクター</td>
+                                    <td>プロダクトデベロップメント本部</td>
+                                </tr>
+                        </table>
                     </div>
                 </div>
                 <br>
@@ -102,7 +118,6 @@
                         
                         <!-- 所属中の配属期間内訳 -->
                         <table>
-                            <caption>所属中の配属期間内訳</caption>
                             <thead>
                                 <tr>
                                 <th scope="col">期間</th>
@@ -133,7 +148,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">2019.10-2020.04</th>
-                                    <td>クラウドエンジニア, インフラエンジニア</td>
+                                    <td>フルスタックエンジニア, クラウドエンジニア, SRE</td>
                                     <td>テクニカルサポート部 開発課 副主任</td>
                                 </tr>
                                 <tr>
@@ -162,7 +177,23 @@
                         <p>山形県のソフトウェア開発企業(独立系SIer)。</p>
                         <p><a href="https://msi-net.co.jp/" target="_blank">https://msi-net.co.jp/</a></p>
                         <p>ソフトウェアエンジニアとしてアプリケーションの要件定義・設計・製造・テスト・リリースを担当。主な担当領域は製造以降。顧客折衝を含む要求定義・納期調整といった調整業務も実施。</p>
-                        <p>ソフトウェアエンジニア / 製造ソリューション本部 2016.03-2018.04</p>
+
+                        <!-- 所属中の配属期間内訳 -->
+                        <table>
+                            <thead>
+                                <tr>
+                                <th scope="col">期間</th>
+                                <th scope="col">ロール</th>
+                                <th scope="col">所属</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">2016.03-2018.04</th>
+                                    <td>ソフトウェアエンジニア, フルスタックエンジニア</td>
+                                    <td>製造ソリューション本部 システムグループ</td>
+                                </tr>
+                        </table>
                     </div>
                 </div>
                 <br>
