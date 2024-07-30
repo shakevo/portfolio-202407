@@ -210,6 +210,41 @@
                 </div>
                 <br>
             </div>
+
+            <h3>資格・免許</h3>
+            <!-- 資格 -->
+            <p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">年月</th>
+                            <th scope="col">資格</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">2021.10</th>
+                            <td>G検定</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2019.01</th>
+                            <td>AWS Certified Solutions Architect - Associate</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2015.11</th>
+                            <td>基本情報技術者</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2014.08</th>
+                            <td>普通自動車免許(現5t限定準中型)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2012.11</th>
+                            <td>剣道三段</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="devel">
