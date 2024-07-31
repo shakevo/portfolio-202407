@@ -81,12 +81,10 @@ section h3 {
     margin-top: 3.5rem; /* 読みやすくするために少し大きめのマージンを取る */
 }
 
-section tbody{
+/* id=cv 内のテーブル共通(CSSセレクタを考慮し明示的にid指定) */
+#cv tbody, #cv tbody tr:nth-child(odd) th, #cv tbody tr:nth-child(odd) td {
     border: none; /* 背景色付けるのに邪魔だからボーダー無し */
-}
-section tbody tr:nth-child(odd) th,
-section tbody tr:nth-child(odd) td {
-	background: #f4f4f4; /* 奇数行に着色 */
+    background: #f4f4f4; /* 奇数行に着色 */
 }
 
 section a {
