@@ -51,15 +51,58 @@
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="skillset">
-            <h2>スキルセット</h2>
-            <h3>マネジメント</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>基盤構築</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>WEB開発</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <h3>ネイティブ開発</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
+            <h2>スキル</h2>
+            <p>※最終更新 2024/07/31※
+            <!-- ソフトスキル -->
+            <h3>ソフトスキル</h3>
+            <p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">スキル</th>
+                            <th scope="col">経験</th>
+                            <th scope="col">詳細</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">ピープルマネジメント</th>
+                            <td>3年</td>
+                            <td>ああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">プロジェクトマネジメント</th>
+                            <td>3年</td>
+                            <td>ああああああああああああああああああああああ</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </p>
+            <!-- ハードスキル -->
+            <h3>ハードスキル</h3>
+            <p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">スキル</th>
+                            <th scope="col">経験</th>
+                            <th scope="col">詳細</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">AWS</th>
+                            <td>6年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">C#</th>
+                            <td>3年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="cv">
