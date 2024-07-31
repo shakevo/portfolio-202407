@@ -357,8 +357,7 @@
         -->
     </main>
     <footer>
-        <p>
-            &copy; 2024 <a href="#top">shakevo</a></p>
+        <p>&copy; 2024 <a href="#top">shakevo</a></p>
     </footer>
     <script src="scripts.js"></script>
 </body>
