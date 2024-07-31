@@ -249,9 +249,9 @@
         </section>
         <section id="devel">
             <h2>個人開発など</h2>
-            <h3>アプリケーションAAA</h3>
-            <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文</p>
-            <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
+            <h3>適当にfaviconポコポコ作るやつ</h3>
+            <p><a href="https://trash-icogen.comilky.com/" target="_blank">https://trash-icogen.comilky.com/</a></p>
+            <p>ランダムな色配置の正方形アイコンを自動生成するアイコン自動生成ツールです</p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="external">
@@ -290,8 +290,8 @@
 
         <!-- サンプル -->
         <!--
-        <section id="aaaaaa">
-            <h2>あああああ</h2>
+        <section id="sample">
+            <h2>サンプルコード</h2>
             <h3>span class bol-textの利用例</h3>
             <p>本文本文本文本文本文<span class="bold-text01">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
             <p>本文本文本文本文本文<span class="bold-text02">私たちは常に入社初日の気持ちで居続けます本文本文本文本文本文</span>本文本文本文本文</p>
@@ -307,6 +307,9 @@
                     <li>リスト</li>
                 </ul>
             </p>
+
+            <h3>画像呼び出し利用例</h3>
+            <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
             <a href="#top">ページトップに戻る</a>
         </section>
         -->
