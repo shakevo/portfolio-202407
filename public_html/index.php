@@ -254,15 +254,36 @@
             <img src="img/example.png" alt="画像呼び出し例(width100%にする)" width="100%">
             <a href="#top">ページトップに戻る</a>
         </section>
-        <section id="sns">
-            <h2>SNS</h2>
+        <section id="external">
+            <h2>外部リンク</h2>
+            <!-- 外部リンク -->
             <p>
-                <ul>
-                    <li><a href="https://x.com/shakevo_/" target="_blank">Twitter@shakevo_</a></li>
-                    <li><a href="https://note.com/shakevo" target="_blank">Note(shakevo)</a></li>
-                    <li><a href="https://github.com/shakevo" target="_blank">GitHub(shakevo)</a></li>
-                    <li><a href="https://zenn.dev/shakevo" target="_blank">Zenn(shakevo)</a></li>
-                </ul>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">サイト</th>
+                            <th scope="col">URL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Twitter(X)</th>
+                            <td><a href="https://x.com/shakevo_/" target="_blank">https://x.com/shakevo_</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">note</th>
+                            <td><a href="https://note.com/shakevo" target="_blank">https://note.com/shakevo</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">GitHub</th>
+                            <td><a href="https://github.com/shakevo" target="_blank">https://github.com/shakevo</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Zenn</th>
+                            <td><a href="https://zenn.dev/shakevo" target="_blank">https://zenn.dev/shakevo</a></td>
+                        </tr>
+                    </tbody>
+                </table>
             </p>
             <a href="#top">ページトップに戻る</a>
         </section>
