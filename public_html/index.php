@@ -52,7 +52,6 @@
         </section>
         <section id="skillset">
             <h2>スキル</h2>
-            <p>※最終更新 2024/07/31※
             <!-- ソフトスキル -->
             <h3>ソフトスキル</h3>
             <p>
@@ -103,6 +102,7 @@
                     </tbody>
                 </table>
             </p>
+            <p>※ 最終更新2024/07/31 ※
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="cv">
@@ -292,8 +292,7 @@
         </section>
         <section id="devel">
             <h2>個人開発など</h2>
-            <h3>適当にfaviconポコポコ作るやつ</h3>
-            <p><a href="https://trash-icogen.comilky.com/" target="_blank">https://trash-icogen.comilky.com/</a></p>
+            <h3><a href="https://trash-icogen.comilky.com/" target="_blank">適当にfaviconポコポコ作るやつ</a></h3>
             <p>ランダムな色配置の正方形アイコンを自動生成するアイコン自動生成ツールです</p>
             <a href="#top">ページトップに戻る</a>
         </section>
