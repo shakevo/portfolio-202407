@@ -21,13 +21,13 @@
     <header>
         <!-- ヘッダーのロゴ画像リンク -->
         <a href="https://portfolio.comilky.com/" target="_blank">
-            <img src="img/example.png" alt="ロゴ画像">
+            <img src="img/favicon.png" alt="ロゴ画像">
         </a>
         <span class="header-text">portfolio site.</span>
     </header>
     <main>
         <section id="ccopy">
-            <h1>しゃけほっけ</h1>
+            <h1><img src="img/qr_portfolio.png" alt="QRコード"></h1>
         </section>
         <section id="introduction">
             <p>shakevo(しゃけほっけ)のポートフォリオサイトです。職務経歴やスキルなどを簡潔にまとめています。</p>
