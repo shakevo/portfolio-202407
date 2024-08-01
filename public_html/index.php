@@ -57,6 +57,31 @@
         </section>
         <section id="skillset">
             <h2>スキル</h2>
+            <!-- ロール -->
+            <h3>ロール</h3>
+            <p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">職種</th>
+                            <th scope="col">経験</th>
+                            <th scope="col">詳細</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">エンジニアリングマネージャー</th>
+                            <td>*年</td>
+                            <td>ああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">プロダクトマネージャー</th>
+                            <td>*年</td>
+                            <td>ああああああああああああああああああああああ</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </p>
             <!-- ソフトスキル -->
             <h3>ソフトスキル</h3>
             <p>
@@ -100,8 +125,98 @@
                             <td>あああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
+                            <th scope="row">Google Cloud</th>
+                            <td>6年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
                             <th scope="row">C#</th>
                             <td>3年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">PHP</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">VB</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Shell</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">AWK</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">JavaScript</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">.NETFramework</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Laravel</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">FuelPHP</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">SQL</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Windows Server</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Linux(RedHad系)</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Linux(Debian系)</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Apache</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">MySQL</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">PostgreSQL</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">OracleDB</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">SQLServer</th>
+                            <td>*年</td>
                             <td>あああああああああああああああああああああああ</td>
                         </tr>
                     </tbody>
@@ -169,7 +284,7 @@
                         <p><span class="bold-text03">2018.05-2024.09</span></p>
                         <p>東京都目黒区のAI・データ分析企業。2021年にゼロマーケティングから社名変更しWEBマーケティング事業から事業変更。</p>
                         <p><a href="https://bloom-t.co.jp/" target="_blank">https://bloom-t.co.jp/</a></p>
-                        <p>リードエンジニア、アーキテクト、エンジニアリングマネージャー、プロダクトマネージャーを担当。プロダクト企画・立上げやエンジニア組織の構築など0→1フェーズでのマネジメントを担当。その他 情シス部門の責任者としてセキュリティやファシリティ統括なども兼任。</p>
+                        <p>リードエンジニア、アーキテクト、エンジニアリングマネージャー、プロダクトマネージャーを担当。プロダクト企画・立上げやエンジニア組織の構築・採用など0→1フェーズでのマネジメントを担当。その他 情シス部門の責任者としてセキュリティやファシリティ統括なども兼任。</p>
                         
                         <!-- 所属中の配属期間内訳 -->
                         <p>
