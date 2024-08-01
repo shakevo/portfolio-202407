@@ -28,8 +28,7 @@
     <main>
         
         <section id="ccopy">
-            <h1>キャッチコピー入力</h1>
-            <img src="img/qr_portfolio.png" alt="QRコード" width="100%">
+            <h1><img src="img/qr_portfolio.png" alt="QRコード" width="100%"></h1>
         </section>
         
         <!--<section id="qrcode">
