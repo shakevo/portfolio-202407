@@ -73,6 +73,7 @@ main {
     padding: 2.5rem 2rem;
     margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
     margin-bottom: 2rem;
+    height: 100vh;
 }
 
 /* テーブル共通 */
