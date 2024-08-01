@@ -27,7 +27,7 @@
     </header>
     <main>
         <section id="ccopy">
-            <h1><img src="img/qr_portfolio.png" alt="QRコード" width="100%"></h1>
+            <h1><img src="img/qr_portfolio.jpg" alt="QRコード" width="100%"></h1>
         </section>
         <section id="introduction">
             <p>shakevo(しゃけほっけ)のポートフォリオサイトです。職務経歴やスキルなどを簡潔にまとめています。</p>
