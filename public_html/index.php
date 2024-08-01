@@ -27,7 +27,7 @@
     </header>
     <main>
         <section id="qrcode">
-            <img src="img/qr_portfolio.png" alt="QRコード" width="50%">
+            <img src="img/qr_portfolio.png" alt="QRコード" width="45%">
         </section>
         <section id="ccopy">
             <h1><img src="img/qr_portfolio.png" alt="QRコード" width="100%"></h1>
@@ -125,6 +125,7 @@
                     </button>
                     <div class="accordion-content">
                         <img src="img/logo_kaonavi.png" alt="株式会社カオナビのロゴ" width="100%">
+                        <img src="img/qr_portfolio.png" alt="QRコード" width="45%">
                         <p><span class="bold-text03">2024.10-</span></p>
                         <p>クラウド人材管理システム「カオナビ」を提供するSaaS企業。</p>
                         <p><a href="https://corp.kaonavi.jp/" target="_blank">https://corp.kaonavi.jp/</a></p>
