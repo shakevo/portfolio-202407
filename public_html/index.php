@@ -302,7 +302,7 @@
                     </tbody>
                 </table>
             </p>
-            <p>※ 最終更新2024/07/31 ※
+            <p>※ 最終更新2024/07/31 ※</p>
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="cv">
