@@ -215,9 +215,10 @@ footer a{
     #qrcode {
         background: #f4f4f4;
         color: #333;
-        padding: 2.5rem 2rem;
-        /*margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
-        /*margin-bottom: 2rem;*/
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
     }
     
     #qrcode h1 {
