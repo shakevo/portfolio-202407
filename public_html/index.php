@@ -26,7 +26,9 @@
         <span class="header-text">portfolio site.</span>
     </header>
     <main>
-    <img src="img/qr_portfolio.png" alt="QRコード" width="50%">
+        <section id="qrcode">
+            <img src="img/qr_portfolio.png" alt="QRコード" width="50%">
+        </section>
         <section id="ccopy">
             <h1><img src="img/qr_portfolio.png" alt="QRコード" width="100%"></h1>
         </section>
