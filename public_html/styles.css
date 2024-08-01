@@ -50,7 +50,7 @@ main {
     padding: 2.5rem 2rem;
     text-align: center;
     margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
-    margin-bottom: 2rem; */
+    margin-bottom: 2rem;
 
     /* 枠で囲む */
     border: 2px solid #999; /* 四角い枠, 色は薄めにする */
@@ -71,8 +71,8 @@ main {
     background: #f4f4f4;
     color: #333;
     padding: 2.5rem 2rem;
-    margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
-    margin-bottom: 2rem;
+    /*margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
+    /*margin-bottom: 2rem;*/
 }
 
 #qrcode h1 {
