@@ -225,7 +225,7 @@ footer a{
         justify-content: center;
         align-items: center;
         height: 100vh;
-        width: 20vh;
+        width: 35vh;
         margin: 0;
         font-size: 5vw; /* フォントサイズも画面に合わせて可変 */
     }
