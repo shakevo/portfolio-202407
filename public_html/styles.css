@@ -73,7 +73,6 @@ main {
     padding: 2.5rem 2rem;
     margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
     margin-bottom: 2rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 影を追加 */
 }
 
 /* テーブル共通 */
@@ -209,6 +208,5 @@ footer a{
         padding: 2.5rem 2rem;
         margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
         margin-bottom: 2rem;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 影を追加 */
     }
 }
