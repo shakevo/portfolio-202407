@@ -533,7 +533,7 @@
             <h2>お問い合わせ</h2>
             <p>大変お手数ですが、お問い合わせは以下フォームよりよろしくお願い申し上げます(shakevo宛にDMが送信されます)。</p>
             <!-- GoogleForm埋め込み -->
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScfjsXEnNEypnOcw0YsHBBhBUDz7pCxeV92P-JYu_D_4oTh4Q/viewform?embedded=true" width="640" height="1113" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScfjsXEnNEypnOcw0YsHBBhBUDz7pCxeV92P-JYu_D_4oTh4Q/viewform?embedded=true" width="640" height="1113" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe></p>
         </section>
 
         <!-- サンプル -->
