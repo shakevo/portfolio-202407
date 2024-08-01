@@ -60,11 +60,18 @@ main {
 
 /* キャッチコピー内 H1のスタイル */
 #ccopy h1 {
-    font-size: 5rem;
+    /* font-size: 5rem;
     font-weight: 700;
     margin: 0;
     line-height: 1.1;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 1.3); /* 影の設定 */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 5vw; /* フォントサイズも画面に合わせて可変 */
 }
 
 #qrcode {
