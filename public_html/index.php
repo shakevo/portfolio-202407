@@ -26,8 +26,13 @@
         <span class="header-text">portfolio site.</span>
     </header>
     <main>
+        <!-- キャッチコピー
         <section id="ccopy">
-            <h1><img src="img/qr_portfolio.jpg" alt="QRコード" width="100%"></h1>
+            <h1>キャッチコピー入力</h1>
+        </section>
+        -->
+        <section id="qrcode">
+            <img src="img/qr_portfolio.jpg" alt="QRコード" width="100%">
         </section>
         <section id="introduction">
             <p>shakevo(しゃけほっけ)のポートフォリオサイトです。職務経歴やスキルなどを簡潔にまとめています。</p>
