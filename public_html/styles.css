@@ -43,10 +43,6 @@ main {
     max-width: 650px; /* 横幅広がりの上限を決めておく SP/PCの見た目差異を無くすため */
 }
 
-main img {
-    text-align: center;
-}
-
 /* キャッチコピー */
 #ccopy {
     background: #f4f4f4;
