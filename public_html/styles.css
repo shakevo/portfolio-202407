@@ -49,8 +49,8 @@ main {
     color: #333;
     padding: 2.5rem 2rem;
     text-align: center;
-    /* margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
-    /*argin-bottom: 2rem; */
+    margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
+    margin-bottom: 2rem; */
 
     /* 枠で囲む */
     border: 2px solid #999; /* 四角い枠, 色は薄めにする */
@@ -60,20 +60,11 @@ main {
 
 /* キャッチコピー内 H1のスタイル */
 #ccopy h1 {
-    /*
     font-size: 5rem;
     font-weight: 700;
     margin: 0;
     line-height: 1.1;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 1.3); /* 影の設定 */
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    width: 650px;
-    margin: 0;
-    font-size: 5vw; /* フォントサイズも画面に合わせて可変 */
 }
 
 #qrcode {
@@ -82,7 +73,16 @@ main {
     padding: 2.5rem 2rem;
     margin-top: 4rem; /* ヘッダー追従で最前面に来るので、その分マージンを多めに空ける */
     margin-bottom: 2rem;
+}
+
+#qrcode h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
+    width: 650px;
+    margin: 0;
+    font-size: 5vw; /* フォントサイズも画面に合わせて可変 */
 }
 
 /* テーブル共通 */
