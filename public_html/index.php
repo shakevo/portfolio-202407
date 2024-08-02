@@ -71,57 +71,57 @@
                     <tbody>
                         <tr>
                             <th scope="row">エンジニアリングマネージャー</th>
-                            <td>*年</td>
+                            <td>3年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">プロダクトマネージャー</th>
-                            <td>*年</td>
+                            <td>1年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">プロジェクトマネージャー</th>
-                            <td>*年</td>
+                            <td>3.5年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">ラインマネージャー</th>
-                            <td>*年</td>
+                            <td>3年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">リードエンジニア</th>
-                            <td>*年</td>
+                            <td>1.5年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">アーキテクト</th>
-                            <td>*年</td>
+                            <td>4年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">フルスタックエンジニア</th>
-                            <td>*年</td>
+                            <td>3年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">SRE</th>
-                            <td>*年</td>
+                            <td>2.5年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">クラウドエンジニア</th>
-                            <td>*年</td>
+                            <td>4年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">ソフトウェアエンジニア</th>
-                            <td>*年</td>
+                            <td>3年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
                             <th scope="row">コーポレートエンジニア</th>
-                            <td>*年</td>
+                            <td>3年</td>
                             <td>ああああああああああああああああああああああ</td>
                         </tr>
                     </tbody>
