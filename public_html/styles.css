@@ -130,7 +130,7 @@ section h3 {
 }
 
 section a {
-    display: block;
+    /*display: block;*/
     /*margin-top: 1rem;*/
     /* color: #007BFF; ちょっとわざとらしいリンク色にする場合 */
     color: #25abb4;
