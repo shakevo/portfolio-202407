@@ -250,6 +250,11 @@
                             <td>あああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
+                            <th scope="row">Python</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
                             <th scope="row">VB</th>
                             <td>*年</td>
                             <td>あああああああああああああああああああああああ</td>
@@ -285,7 +290,17 @@
                             <td>あああああああああああああああああああああああ</td>
                         </tr>
                         <tr>
+                            <th scope="row">Django</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
                             <th scope="row">SQL</th>
+                            <td>*年</td>
+                            <td>あああああああああああああああああああああああ</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">DBFlute</th>
                             <td>*年</td>
                             <td>あああああああああああああああああああああああ</td>
                         </tr>
