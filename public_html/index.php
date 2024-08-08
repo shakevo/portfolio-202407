@@ -549,8 +549,8 @@
             <a href="#top">ページトップに戻る</a>
         </section>
         <section id="external">
-            <h2>外部リンク</h2>
-            <!-- 外部リンク -->
+            <h2>もっと詳しく</h2>
+            <!-- もっと詳しく(外部リンク) -->
             <p>
                 <table>
                     <thead>
