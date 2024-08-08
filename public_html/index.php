@@ -57,6 +57,36 @@
         </section>
         <section id="skillset">
             <h2>スキル</h2>
+            <!-- 経験業界 -->
+            <h3>経験業界</h3>
+            <p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">業界</th>
+                            <th scope="col">経験</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">SaaS</th>
+                            <td>0年</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">AI・データ分析</th>
+                            <td>3年</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">SIer</th>
+                            <td>2年</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">WEBマーケティング</th>
+                            <td>3.5年</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </p>
             <!-- 経験ロール -->
             <h3>経験ロール</h3>
             <p>
