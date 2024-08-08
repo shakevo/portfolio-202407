@@ -70,7 +70,7 @@
                     <tbody>
                         <tr>
                             <th scope="row">SaaS</th>
-                            <td>0年</td>
+                            <td>0.1年</td>
                         </tr>
                         <tr>
                             <th scope="row">AI・データ分析</th>
